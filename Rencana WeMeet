@@ -1,0 +1,7 @@
+- Membuat Front End Login
+- Membuat Front End Main Menu
+- Membuat Front End Info Ruangan
+- Membuat Front End Pesan Ruangan
+- Memasukkan Firebase ke dalam App
+- Menggunakan Firebase Auth untuk login user
+- Menambahkan Firebase Database untuk jadwal meeting setiap user dan ruangan
