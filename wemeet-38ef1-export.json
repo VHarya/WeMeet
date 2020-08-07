@@ -1,0 +1,15 @@
+{
+  "Rooms" : {
+    "Room1" : {
+      "Used" : false
+    }
+  },
+  "Users" : {
+    "Edg62EyKftd6pRXCsQOriBtwaCi1" : {
+      "Nama" : "John Doe"
+    },
+    "nvkSWdqSOMXXIAfcIm5obKRqbFs2" : {
+      "Nama" : "Johnny"
+    }
+  }
+}
