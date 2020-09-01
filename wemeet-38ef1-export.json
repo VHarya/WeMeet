@@ -1,15 +1,29 @@
 {
   "Rooms" : {
     "Room1" : {
-      "Used" : false
+      "Jadwal" : {
+        "09-10" : false,
+        "10-11" : false,
+        "11-12" : false,
+        "12-13" : false,
+        "13-14" : false,
+        "14-15" : false,
+        "15-16" : false
+      },
+      "Nama" : "Room 1"
+    },
+    "Room2" : {
+      "Nama" : "Room 2"
     }
   },
   "Users" : {
     "Edg62EyKftd6pRXCsQOriBtwaCi1" : {
-      "Nama" : "John Doe"
+      "Nama" : "John Doe",
+      "id" : "Edg62EyKftd6pRXCsQOriBtwaCi1"
     },
     "nvkSWdqSOMXXIAfcIm5obKRqbFs2" : {
-      "Nama" : "Johnny"
+      "Nama" : "Johnny",
+      "id" : "nvkSWdqSOMXXIAfcIm5obKRqbFs2"
     }
   }
 }
